@@ -7,7 +7,7 @@
 <title>Proyecto ASR new...</title>
 </head>
 <body>
-<h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps</h1>
+<h1>Ejemplo de Proyecto de ASR con Cloudant ahora SI con DevOps</h1>
 <hr />
 <p>Opciones sobre la base de datos de Delia Clar:</p>
 <ul>
